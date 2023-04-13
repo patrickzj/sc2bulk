@@ -1,2 +1,3 @@
 # sc2bulk
 sc2bulk
+Application of single-cell RNA sequencing has offered myriads of biological insights to tumor research. However, frequent drop-out events and sampling preference remains hurdle to analyzing importance of specific cell type in tumor microenvironment. Finding specific signatures followed with scoring on bulk RNA sequencing data could help us evaluate the occupancy and functional phenotype of cells in an unbiased way, as well as their association with sample-level information such as survival, disease stage and treatment efficacy, etc. Thus, we constructed one turkey R package - sc2bulk.
